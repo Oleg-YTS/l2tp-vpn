@@ -1,1 +1,1 @@
-FROM henrist/l2tp
+FROM hwdsl2/ipsec-vpn-server
