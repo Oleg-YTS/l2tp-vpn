@@ -1,1 +1,1 @@
-FROM hwdsl2/ipsec-vpn-server
+FROM softethervpn/vpnserver:stable
